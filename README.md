@@ -30,5 +30,5 @@ The telecommunications industry faces a high churn rate. The goal is to predict 
 
 ## **Contact**
 For any questions or feedback, feel free to reach out at:  
-**Muhammad Iqbal Hilmy Izzulhaq**  
-JCDS 2502 | BSD
+**LInkedin:** https://www.linkedin.com/in/izzulhaq-iqbal/
+**Email:** miqbal.izzulhaq@gmail.com

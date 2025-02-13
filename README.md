@@ -9,7 +9,6 @@ This project focuses on customer churn prediction for a telecommunications compa
 - **`Muhammad Iqbal Hilmy Izzulhaq Capstone Project 3.ipynb`**: Jupyter notebook containing the detailed analysis, data preprocessing, model training, and evaluation.
 - **`PPT Muhammad Iqbal Hilmy Izzulhaq.pptx`**: PowerPoint presentation summarizing the project's results and findings.
 - **`randomized_search_model.pkl`**: Saved model after hyperparameter tuning using RandomizedSearchCV.
-- **`A_professional,_sleek,_blue_pastel-toned_image_ill.png`**: Visual representation of churn analysis.
 
 ## **Problem Statement**
 The telecommunications industry faces a high churn rate. The goal is to predict customer churn to enable retention strategies and reduce the overall churn rate, thus optimizing marketing resources and maintaining revenue stability.
